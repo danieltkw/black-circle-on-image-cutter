@@ -21,5 +21,7 @@ This script processes images by detecting and cropping circular areas, saving th
 The script uses OpenCV for image processing and skimage with matplotlib for vectorizing images. It ensures organized results and detailed logs for each run, facilitating traceability and usability.
 
 # Required libraries
+
+```
 pip install opencv-python-headless numpy scikit-image matplotlib
 
